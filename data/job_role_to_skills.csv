@@ -1,0 +1,79 @@
+job_role,skills
+Software Developer/Engineer,Java|Python|C++|Javascript|Software Design|Debugging|Problem Solving|Algorithms Software Developer Engineer
+Data Scientist,Python|Machine Learning Frameworks Tensorflow|Pytorch|Data Analysis|Statistics|Business Acumen Data Scientist
+Cybersecurity Analyst,Ethical Hacking|Network Security|Cryptography|Risk Management|Threat Detection Cybersecurity Analyst
+Cloud Computing Engineer,AWS|Azure|GCP|Virtualization|Distributed Computing|Networking|Container Orchestration Cloud Computing Engineer
+Machine Learning Engineer,Machine Learning Frameworks|Data Preprocessing|Algorithm Development|Mathematics|Statistics Machine Learning Engineer
+Full Stack Developer,HTML|CSS|Javascript|React|Node.js|Python|Databases SQL|Mongodb|Git Version Control Full Stack Developer
+DevOps Engineer,Docker|Kubernetes|Jenkins|CI CD Pipelines|System Administration|Linux|Monitoring Devops Engineer
+Database Administrator,SQL|Nosql Databases|Data Modeling|Query Optimization|Database Administration|Backup Recovery Database Administrator
+Web Developer,HTML|CSS|Javascript|Frontend Frameworks|Responsive Design|UX UI Basics|Browser Compatibility Web Developer
+Game Developer,Game Engines Unity|Unreal|C#|C++|Physics|Graphics Programming|Game Design Patterns Game Developer
+AI Specialist,Deep Learning|Neural Networks|Computer Vision|Natural Language Processing|Tensorflow Pytorch AI Specialist
+Business Analyst,SQL|Excel|Power BI|Tableau|Business Processes|Communication|Project Management|JIRA Business Analyst
+Design Engineer,CAD Software Solidworks|Autocad|Blueprints|Design|Simulation|Materials Design Engineer
+Robotics & Automation Engineer,PLC Programming|Robotics|Control Systems|Automation Software|Kinematics|Dynamics Robotics|Automation Engineer
+R&D Engineer,CAD CAM Software|Prototyping|Materials Science|Project Management|Problem Solving R&D Engineer
+HVAC Engineer,HVAC Systems|Thermodynamics|Heating Cooling Principles|Energy Efficiency|Technical Drawings HVAC Engineer
+Quality Control Engineer,Quality Control|Statistical Analysis|SPC|Problem Solving|Inspection Procedures Quality Control Engineer
+Production Engineer,Manufacturing Processes|CAD Software|Quality Standards|Process Optimization|Equipment Maintenance Production Engineer|Production Planning|Lean Manufacturing|CAD CAM|ERP Systems Production Engineer
+Aerospace Engineer,Aerodynamics|Structural Analysis|Propulsion Systems|CAD CAM|Physics|Mathematics Aerospace Engineer
+CAD/CAM Engineer,CAD Software CATIA|Solidworks|3D Modeling|Simulation|Technical Documentation CAD CAM Engineer
+Mechanical Design Engineer,CAD Software|Design Principles|Materials Selection|Stress Analysis|Physics Mechanical Design Engineer
+Thermal Engineer,Thermodynamics|Heat Transfer|HVAC Systems|Simulation|Technical Analysis Thermal Engineer
+Maintenance Engineer,Equipment Maintenance|Troubleshooting|Technical Drawing Interpretation|Safety Protocols Maintenance Engineer|Safety Protocols|Technical|Documentation Maintenance Engineer
+Structural Engineer,Structural Analysis Software|CAD|Mathematics|Physics|Building Codes|Project Management Structural Engineer
+Project Manager,Project Planning|Leadership|Cost Management|Communication|Stakeholder Management Project Manager
+Construction Engineer,Construction Methods|Project Management|Materials|Safety Standards|Site Coordination Construction Engineer
+Geotechnical Engineer,Soil Mechanics|Geology|Foundation Design|Geotechnical Software|Risk Assessment Geotechnical Engineer
+Transportation Engineer,Traffic Analysis|Transportation Planning|GIS Software|Safety Regulations|Design Principles Transportation Engineer
+Environmental Engineer,Water Treatment|Environmental Regulations|Sustainability|Technical Analysis|Problem Solving Environmental Engineer
+BIM Specialist,BIM Software Revit|CAD|3D Modeling|Building Documentation|Coordination BIM Specialist
+Quantity Surveyor,Quantity Surveying|Cost Estimation|Materials|Excel|Project Billing Quantity Surveyor
+Power Systems Engineer,Power Systems Analysis|MATLAB Simulink|Electrical Design|Renewable Energy|Safety Standards Power Systems Engineer
+Electrical Design Engineer,CAD Software|Electrical Schematic Design|MATLAB|Power Systems|Technical Documentation Electrical Design Engineer
+Control Systems Engineer,PLC Programming|SCADA Systems|Control Theory|Automation Software|Troubleshooting Control Systems Engineer|DCS|Automationml Control Systems Engineer
+Automation Engineer,Automation Software|Industrial Systems|Programming C|Python|Control Systems|Safety Protocols Automation Engineer
+Embedded Systems Engineer,Python|Assembly Language|Microcontroller Programming|Hardware Software Integration|Debugging Embedded Systems Engineer
+Electrical Test Engineer,Testing Equipment|Circuit Analysis|Troubleshooting|Documentation|Quality Assurance Electrical Test Engineer
+Telecommunications Engineer,Network Design|Hardware Management|Transmission Principles|Problem Solving|Technical Standards Telecommunications Engineer
+Electronics Engineer,Circuit Design|Signal Processing|PCB Design|Testing|Validation|CAD Software Electronics Engineer
+Circuit Design Engineer,Analog Digital Design|Simulation|SPICE|CAD|Layout Design Circuit Design Engineer
+Embedded Systems Developer,Embedded Programming|Microcontroller|Hardware Integration|Low Level Programming Embedded Systems Developer
+Microelectronics Engineer,Semiconductor Design|VLSI|Manufacturing Processes|Physics|Simulation Microelectronics Engineer
+Communication Systems Engineer,Signal Processing|Network Design|Modulation Techniques|Transmission Systems|Testing Communication Systems Engineer
+Consumer Electronics Designer,PCB Design|Embedded Systems|Product Testing|Quality Assurance|Technical Drawings Consumer Electronics Designer
+Process Engineer,Process Design|Chemical Reactions|MATLAB|Process Simulation|Safety Protocols Process Engineer
+Chemical Engineer,Chemical Engineering Fundamentals|Process Optimization|CAD|Problem Solving|Safety Chemical Engineer
+Product Development Engineer,Product Design|Materials Science|Testing|Validation|Documentation|Quality Control Product Development Engineer
+Safety Engineer,Safety Systems|Risk Assessment|Hazard Analysis|Chemical Regulations|Documentation Safety Engineer
+Quality Control Analyst,Analytical Techniques|Quality Standards|HPLC|Testing Procedures|Documentation Quality Control Analyst
+Technical Sales Engineer,Product|Technical Communication|Sales Engineering|Customer Relations|Field Support Technical Sales Engineer
+Manufacturing Engineer,Manufacturing Processes|Quality Control|CAD Software|Problem Solving|Equipment Manufacturing Engineer
+Quality Assurance Engineer,Quality Standards|Inspection Methods|SPC|Problem Solving|Documentation|Testing Quality Assurance Engineer
+Industrial Engineer,Process Optimization|Operations Management|Statistical Analysis|Project Management|Lean Six Sigma Industrial Engineer
+Process Optimization Engineer,Process Improvement|Lean Manufacturing|Data Analysis|Technical|Optimization Process Optimization Engineer
+Research Scientist,Research Methodology|Laboratory Techniques|Technical Analysis|Molecular Biology|Genetics Research Scientist
+Clinical Research Associate,Clinical Protocols|Data Management|Research Documentation|Medical|Ethics Clinical Research Associate
+Quality Control Officer,Quality Assurance Procedures|Testing Methods|Documentation|Regulatory Compliance|Technical Quality Control Officer
+Bioinformatics Specialist,Python|SQL|Data Analysis|Genomic Analysis|Protein Modeling|Computational Bioinformatics Specialist
+Biotech Analyst,Data Analysis|Market Research|Biotech Fundamentals|Technical Documentation|Business Acumen Biotech Analyst
+Production Manager (Biotech),Production Supervision|Quality Management|Process Control|Team Management|Safety Protocols Production Manager Biotech
+Genetic Engineer,Genetic Engineering Techniques|Laboratory|Molecular Biology|Research Methodology Genetic Engineer
+Environmental Consultant,Environmental Assessment|Regulatory|Project Management|Technical Analysis|Communications Environmental Consultant
+Environmental Project Manager,Project Planning|Environmental Standards|Team Leadership|Cost Management|Technical Expertise Environmental Project Manager
+Sustainability Manager,Sustainability Strategies|Environmental Management|Project Execution|Stakeholder Engagement Sustainability Manager
+Water Treatment Engineer,Water Quality Testing|Treatment System Design|Environmental Regulations|Technical Water Treatment Engineer
+Environmental Policy Analyst,Policy Analysis|Research|Technical Writing|Environmental Regulations|Stakeholder Engagement Environmental Policy Analyst
+Aircraft Design Engineer,Aerodynamic Design|CAD CAM CATIA|Solidworks|Structural Analysis|Physics|ANSYS Aircraft Design Engineer
+Propulsion Engineer,Thermodynamics|Propulsion Systems|Engine Design|CFD Analysis|Materials Science Propulsion Engineer
+Avionics Specialist,Avionics Systems|Flight Systems|Electronics|Aircraft Instrumentation|Technical Avionics Specialist
+Quality Assurance Engineer (Aerospace),Quality Control Methods|Testing Procedures|Compliance Standards|Documentation|Problem Solving Quality Assurance Engineer Aerospace
+Maintenance Engineer (Aerospace),Maintenance Procedures|Aircraft Systems|Technical Documentation|Troubleshooting|Safety Protocols Maintenance Engineer Aerospace
+Process Control Engineer,Process Control|Instrumentation|MATLAB Simulink|System Modeling|Troubleshooting Process Control Engineer
+DCS/SCADA Engineer,DCS SCADA Configuration|PLC Programming|Network Security|Process Optimization|Testing DCS SCADA Engineer
+Automation & Robotics Engineer,Industrial Automation|Robotics|Programming|System Integration|Control Systems Automation|Robotics Engineer
+Entrepreneur/Startup Founder,Entrepreneurship Fundamentals|Business Planning|Innovation|Market Analysis|Technical Expertise Entrepreneur Startup Founder
+Product Manager,Product Strategy|Market Research|Data Analysis|Technical|Leadership|Communication Product Manager
+Government Officer (IES/RRB JE),Government Exam Preparation|Technical Relevant Branch|Written Test Government Officer IES RRB JE
+Management Consultant,Business Analysis|Problem Solving|Strategic Thinking|Communication|Industry Management Consultant

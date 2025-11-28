@@ -1,0 +1,9 @@
+{
+  "chosen_pipeline": "pipeline_xgb.joblib",
+  "label_encoder": "label_encoder.joblib",
+  "metrics": {
+    "acc": 0.979,
+    "top3": 1.0
+  },
+  "model_details": "RandomForest/XGBoost pipeline, trained on synthetic data"
+}
